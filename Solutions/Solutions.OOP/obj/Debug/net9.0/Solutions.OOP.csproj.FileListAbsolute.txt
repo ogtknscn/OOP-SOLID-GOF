@@ -1,0 +1,15 @@
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\bin\Debug\net9.0\Solutions.OOP.exe
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\bin\Debug\net9.0\Solutions.OOP.deps.json
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\bin\Debug\net9.0\Solutions.OOP.runtimeconfig.json
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\bin\Debug\net9.0\Solutions.OOP.dll
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\bin\Debug\net9.0\Solutions.OOP.pdb
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.AssemblyInfoInputs.cache
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.AssemblyInfo.cs
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.csproj.CoreCompileInputs.cache
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.sourcelink.json
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.dll
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\refint\Solutions.OOP.dll
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.pdb
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\Solutions.OOP.genruntimeconfig.cache
+E:\OOP-SOLID-GOF\Solutions\Solutions.OOP\obj\Debug\net9.0\ref\Solutions.OOP.dll
