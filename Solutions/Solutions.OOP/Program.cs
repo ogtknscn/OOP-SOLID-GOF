@@ -4,12 +4,16 @@ using Solutions.OOP.Inheritance;
 using Solutions.OOP.Polymorphism;
 using Solutions.OOP.Coupling;
 
-//Coupling
+//Coupling\\
+/* The degree of interdependence between software modules; a measure of how closely connected two routines or modules are; the strength of the relationships between modules.
+
 var order = new Order(new EmailSender());
 order.PlaceOrder();
+*/
 
 // Polymorphism \\
 /* The ability to present the same interface for different data types.
+
 List<Vehicle> vehicles = new List<Vehicle>
 {
     new Car("Toyota", "Corolla", 2021, 4, 4),
@@ -25,6 +29,7 @@ foreach (var vehicle in vehicles)
 
 // Inheritance \\
 /* A mechanism in which one class acquires the properties and behavior of another class.
+
 var car = new Car("Toyota", "Corolla", 2021, 4, 4);
 car.Start();
 car.Stop();
@@ -32,12 +37,14 @@ car.Stop();
 
 // Abstraction \\
 /* Less code to write, less code to maintain, and less code to test.
+
 EmailService emailService = new EmailService();
 emailService.SendEmail();
 */
 
 // Encapsulation \\
 /* The bundling of data with the methods that operate on that data.
+
 BankAccount bankAccount = new BankAccount(100);
 System.Console.WriteLine(bankAccount.GetBalance()); // 100
 
