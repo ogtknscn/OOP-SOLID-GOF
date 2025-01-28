@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "E:\\OOP-SOLID-GOF\\Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\composition\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\composition\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\lsp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\lsp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\composition\\wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\composition\\wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\lsp\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\composition\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\composition\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\composition\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\composition\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|e:\\oop-solid-gof\\solutions\\solutions.oop\\composition\\chassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A010CF-9A27-4316-AA11-59FFA30FD52D}|Solutions.OOP\\Solutions.OOP.csproj|solutionrelative:solutions.oop\\composition\\chassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\lsp\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Car.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Composition\\Car.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Car.cs",
-              "RelativeToolTip": "Solutions.OOP\\Composition\\Car.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:05:23.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Wheels.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Wheels.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Composition\\Wheels.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Wheels.cs",
-              "RelativeToolTip": "Solutions.OOP\\Composition\\Wheels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Square.cs",
+              "RelativeDocumentMoniker": "Solutions.SOLID\\LSP\\Square.cs",
+              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Square.cs",
+              "RelativeToolTip": "Solutions.SOLID\\LSP\\Square.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:05:01.888Z",
+              "WhenOpened": "2025-01-28T11:43:47.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Seats.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Seats.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Composition\\Seats.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Seats.cs",
-              "RelativeToolTip": "Solutions.OOP\\Composition\\Seats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Solutions.SOLID\\LSP\\Rectangle.cs",
+              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Rectangle.cs",
+              "RelativeToolTip": "Solutions.SOLID\\LSP\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:04:50.379Z",
+              "WhenOpened": "2025-01-28T11:42:33.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Engine.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Composition\\Engine.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Engine.cs",
-              "RelativeToolTip": "Solutions.OOP\\Composition\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Shape.cs",
+              "RelativeDocumentMoniker": "Solutions.SOLID\\LSP\\Shape.cs",
+              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\LSP\\Shape.cs",
+              "RelativeToolTip": "Solutions.SOLID\\LSP\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:04:36.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Chassis.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Chassis.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Composition\\Chassis.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Composition\\Chassis.cs",
-              "RelativeToolTip": "Solutions.OOP\\Composition\\Chassis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:03:57.657Z",
+              "WhenOpened": "2025-01-28T11:42:15.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Program.cs",
-              "RelativeDocumentMoniker": "Solutions.OOP\\Program.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Program.cs",
-              "RelativeToolTip": "Solutions.OOP\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "Solutions.SOLID\\Program.cs",
+              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\Program.cs",
+              "RelativeToolTip": "Solutions.SOLID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T08:22:21.06Z",
+              "WhenOpened": "2025-01-28T10:01:12.766Z",
               "EditorCaption": ""
             }
           ]

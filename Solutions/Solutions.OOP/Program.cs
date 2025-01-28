@@ -11,6 +11,7 @@ var order = new Order(new EmailSender());
 order.PlaceOrder();
 */
 
+
 // Polymorphism \\
 /* The ability to present the same interface for different data types.
 
@@ -27,6 +28,7 @@ foreach (var vehicle in vehicles)
 }
 */
 
+
 // Inheritance \\
 /* A mechanism in which one class acquires the properties and behavior of another class.
 
@@ -35,12 +37,14 @@ car.Start();
 car.Stop();
 */
 
+
 // Abstraction \\
 /* Less code to write, less code to maintain, and less code to test.
 
 EmailService emailService = new EmailService();
 emailService.SendEmail();
 */
+
 
 // Encapsulation \\
 /* The bundling of data with the methods that operate on that data.
