@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "E:\\OOP-SOLID-GOF\\Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\ocp\\shapetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\ocp\\shapetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\ocp\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\ocp\\calculatecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\ocp\\calculatecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\ocp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\ocp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|e:\\oop-solid-gof\\solutions\\solutions.solid\\ocp\\service\\calculaterectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0CFC37-75E2-4450-9A66-36F1FBF7063B}|Solutions.SOLID\\Solutions.SOLID.csproj|solutionrelative:solutions.solid\\ocp\\service\\calculaterectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Circle.cs",
-              "RelativeDocumentMoniker": "Solutions.SOLID\\OCP\\Circle.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Circle.cs",
-              "RelativeToolTip": "Solutions.SOLID\\OCP\\Circle.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:40:10.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CalculateCircle.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\CalculateCircle.cs",
-              "RelativeDocumentMoniker": "Solutions.SOLID\\OCP\\CalculateCircle.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\CalculateCircle.cs",
-              "RelativeToolTip": "Solutions.SOLID\\OCP\\CalculateCircle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:37:54.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Shape.cs",
-              "RelativeDocumentMoniker": "Solutions.SOLID\\OCP\\Shape.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Shape.cs",
-              "RelativeToolTip": "Solutions.SOLID\\OCP\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:30:22.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShapeType.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\ShapeType.cs",
-              "RelativeDocumentMoniker": "Solutions.SOLID\\OCP\\ShapeType.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\ShapeType.cs",
-              "RelativeToolTip": "Solutions.SOLID\\OCP\\ShapeType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:29:49.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\Program.cs",
-              "RelativeDocumentMoniker": "Solutions.SOLID\\Program.cs",
-              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\Program.cs",
-              "RelativeToolTip": "Solutions.SOLID\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Title": "CalculateRectangle.cs",
+              "DocumentMoniker": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Service\\CalculateRectangle.cs",
+              "RelativeDocumentMoniker": "Solutions.SOLID\\OCP\\Service\\CalculateRectangle.cs",
+              "ToolTip": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.SOLID\\OCP\\Service\\CalculateRectangle.cs",
+              "RelativeToolTip": "Solutions.SOLID\\OCP\\Service\\CalculateRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:01:12.766Z",
+              "WhenOpened": "2025-01-28T17:08:04.582Z",
               "EditorCaption": ""
             }
           ]
