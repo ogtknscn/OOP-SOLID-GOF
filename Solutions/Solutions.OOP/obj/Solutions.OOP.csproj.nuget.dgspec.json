@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj": {}
+    "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj": {}
   },
   "projects": {
-    "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj": {
+    "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj",
+        "projectUniqueName": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj",
         "projectName": "Solutions.OOP",
-        "projectPath": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj",
+        "projectPath": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\Solutions.OOP.csproj",
         "packagesPath": "C:\\Users\\sezai\\.nuget\\packages\\",
-        "outputPath": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\obj\\",
+        "outputPath": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

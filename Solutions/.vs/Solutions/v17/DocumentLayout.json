@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\OOP-SOLID-GOF\\Solutions\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|e:\\repositories\\0 - general development\\oop-solid-gof\\solutions\\solutions.gof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|solutionrelative:solutions.gof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|e:\\repositories\\0 - general development\\oop-solid-gof\\solutions\\solutions.gof\\behavioral\\memento\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|solutionrelative:solutions.gof\\behavioral\\memento\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|e:\\repositories\\0 - general development\\oop-solid-gof\\solutions\\solutions.gof\\behavioral\\memento\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|solutionrelative:solutions.gof\\behavioral\\memento\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|e:\\repositories\\0 - general development\\oop-solid-gof\\solutions\\solutions.gof\\behavioral\\memento\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45091D6-67CD-4718-AB3B-4E29EEE79717}|Solutions.GOF\\Solutions.GOF.csproj|solutionrelative:solutions.gof\\behavioral\\memento\\editorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Program.cs",
+              "RelativeDocumentMoniker": "Solutions.GOF\\Program.cs",
+              "ToolTip": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Program.cs",
+              "RelativeToolTip": "Solutions.GOF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:23:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cs",
+              "DocumentMoniker": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\History.cs",
+              "RelativeDocumentMoniker": "Solutions.GOF\\Behavioral\\Memento\\History.cs",
+              "ToolTip": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\History.cs",
+              "RelativeToolTip": "Solutions.GOF\\Behavioral\\Memento\\History.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:30:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditorState.cs",
+              "DocumentMoniker": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\EditorState.cs",
+              "RelativeDocumentMoniker": "Solutions.GOF\\Behavioral\\Memento\\EditorState.cs",
+              "ToolTip": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\EditorState.cs",
+              "RelativeToolTip": "Solutions.GOF\\Behavioral\\Memento\\EditorState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:24:53.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\Editor.cs",
+              "RelativeDocumentMoniker": "Solutions.GOF\\Behavioral\\Memento\\Editor.cs",
+              "ToolTip": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Behavioral\\Memento\\Editor.cs",
+              "RelativeToolTip": "Solutions.GOF\\Behavioral\\Memento\\Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:23:51.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

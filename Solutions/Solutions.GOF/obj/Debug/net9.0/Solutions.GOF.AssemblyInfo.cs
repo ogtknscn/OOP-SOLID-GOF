@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solutions.GOF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c4ad556f86b2f43ad0cb932842d524b8e40f870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d4c0e583b5e6ccf84f37910abba62e5b0feeaaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solutions.GOF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solutions.GOF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

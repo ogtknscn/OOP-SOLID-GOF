@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Solutions.GOF.csproj",
+      "projectUniqueName": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Solutions.GOF.csproj",
       "projectName": "Solutions.GOF",
-      "projectPath": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Solutions.GOF.csproj",
+      "projectPath": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\Solutions.GOF.csproj",
       "packagesPath": "C:\\Users\\sezai\\.nuget\\packages\\",
-      "outputPath": "E:\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\obj\\",
+      "outputPath": "E:\\Repositories\\0 - General Development\\OOP-SOLID-GOF\\Solutions\\Solutions.GOF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
